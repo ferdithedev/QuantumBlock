@@ -1,0 +1,6 @@
+name: QuantumBlock
+version: '${project.version}'
+main: me.ferdithedev.quantumblock.QuantumBlock
+api-version: 1.20
+authors: [ferdithedev]
+description: A redesign of OverBlock
